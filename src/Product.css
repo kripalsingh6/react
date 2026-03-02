@@ -1,12 +1,13 @@
 
 
 .Product{
-    width: 100vh;
-    height: 200px;
     border: 1px solid black;
-    border-radius: 25px;
-    margin-bottom: 10px;
+    border-radius: 14px;
+    margin-bottom: 15px;
     color: black;
-    
+    /* padding: 0 10px 0 10px; */
+    margin-left: 10px;
+    width: 200px;
+   
 }
 
